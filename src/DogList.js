@@ -8,8 +8,9 @@ function DogList({dogs}) {
             <div >
                 <div >
                     <h1 >
-                    HELLOZ. WE HAVE DOGZ. CLICK ON THEM FOR MORE INFO.
+                    COME SEE ALL THE DOGGOZZ!!
                     </h1>
+                    <p> Click a Name to begin .. </p>
                 </div>
             </div>
         </div>
